@@ -1,0 +1,5 @@
+nc_py_api[app]>=0.10.0
+pygifsicle
+imageio
+opencv-python
+numpy
